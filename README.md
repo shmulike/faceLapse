@@ -1,6 +1,6 @@
-## faceLapse
+# faceLapse
 
-# Packages to install:
+## Packages to install:
 cmake
 numpy
 scipy
